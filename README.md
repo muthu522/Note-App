@@ -5,14 +5,24 @@ NoteApp is a simple and responsive note-taking web application developed using H
 This project demonstrates fundamental concepts of front-end development, DOM manipulation, and local storage management, making it a great beginner-friendly project for learning practical web development.
 
 Tech Stack
+
   1 HTML5 – for structuring the web pages
+  
   2 CSS3 – for styling and creating a responsive layout
+  
   3 JavaScript – for interactivity and note operations
+  
   4 Local Storage – for storing user data persistently on the browser
 
+
 Key Features
+
   1 Create, edit, and delete notes
+  
   2 Auto-save notes using Local Storage
+  
   3 Responsive design for mobile and desktop
+  
   4 Clean and minimal user interface
+  
   5 Fast and lightweight
